@@ -1,0 +1,1 @@
+{"name":"zekumo/sdk","description":"Official PHP SDK for Zekumo","license":"MIT","require":{"php":"^8.2","guzzlehttp/guzzle":"^7.9","textalk/websocket":"^1.6"},"autoload":{"psr-4":{"Zekumo\\":"src/"}}}
